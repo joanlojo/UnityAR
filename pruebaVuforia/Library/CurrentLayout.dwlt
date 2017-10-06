@@ -315,7 +315,8 @@ MonoBehaviour:
     height: 347
   m_SearchFilter:
     m_NameFilter: 
-    m_ClassNames: []
+    m_ClassNames:
+    - Model
     m_AssetLabels: []
     m_AssetBundleNames: []
     m_VersionControlStates: []
@@ -323,20 +324,19 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Editor/Vuforia/ImageTargetTextures/VuforiaClases1
+    m_Folders: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Editor/Vuforia/ImageTargetTextures/VuforiaClases1
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\jlopez\Desktop\pruebaVuforia
+  m_LastProjectPath: C:\Users\jlopez\Desktop\UnityAR\pruebaVuforia
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 10}
-    m_SelectedIDs: a82b0000
-    m_LastClickedID: 11176
-    m_ExpandedIDs: 4c250000422b0000a42b0000a62b0000ae2b000000ca9a3bffffff7f
+    m_SelectedIDs: 02ca9a3b
+    m_LastClickedID: 1000000002
+    m_ExpandedIDs: 00000000e4250000c2260000d0260000462700003428000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000e4250000c2260000d02600004627000034280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,23 +480,23 @@ MonoBehaviour:
     height: 542
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
+    m_SelectedIDs: d6260000
     m_LastClickedID: 0
-    m_ExpandedIDs: 2065faffa065faffda66faffbc96faff7697faffb298faffe2dafcff9cdbfcffd8dcfcff60c0fdff1ac1fdff56c2fdff6ed9feff28dafeff64dbfeff40e6ffff66fbffff000000000e3b0000
+    m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Cartoon_SportCar_B01
-      m_OriginalName: Cartoon_SportCar_B01
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -19672
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
@@ -564,7 +564,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.4982078, y: -0.1435078, z: 0.08535668, w: -0.85082823}
     speed: 2
-    m_Value: {x: -0.49820784, y: -0.14350781, z: 0.08535669, w: -0.8508283}
+    m_Value: {x: -0.49820778, y: -0.14350778, z: 0.08535668, w: -0.85082823}
   m_Size:
     m_Target: 0.31274587
     speed: 2
