@@ -4,7 +4,133 @@ timeCreated: 1508511481
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanHeadBone001
+    100006: Base HumanHeadBone001Bone001
+    100008: Base HumanHeadBone001Bone001Gizmo
+    100010: Base HumanHeadBone001Gizmo
+    100012: Base HumanHeadGizmo
+    100014: Base HumanLCalf
+    100016: Base HumanLCollarbone
+    100018: Base HumanLDigit11
+    100020: Base HumanLDigit11 1
+    100022: Base HumanLDigit11Gizmo
+    100024: Base HumanLDigit11Gizmo 1
+    100026: Base HumanLDigit21
+    100028: Base HumanLDigit21Gizmo
+    100030: Base HumanLDigit22
+    100032: Base HumanLDigit22Gizmo
+    100034: Base HumanLFoot
+    100036: Base HumanLFootGizmo
+    100038: Base HumanLForearm
+    100040: Base HumanLForearmGizmo
+    100042: Base HumanLPalm
+    100044: Base HumanLPalmGizmo
+    100046: Base HumanLPlatform
+    100048: Base HumanLThigh
+    100050: Base HumanLUpperarm
+    100052: Base HumanLUpperarmGizmo
+    100054: Base HumanLUpVectorNode
+    100056: Base HumanNeck
+    100058: Base HumanPelvis
+    100060: Base HumanPelvisGizmo
+    100062: Base HumanRCalf
+    100064: Base HumanRCollarbone
+    100066: Base HumanRDigit11
+    100068: Base HumanRDigit11 1
+    100070: Base HumanRDigit11Gizmo
+    100072: Base HumanRDigit11Gizmo 1
+    100074: Base HumanRDigit21
+    100076: Base HumanRDigit21Gizmo
+    100078: Base HumanRDigit22
+    100080: Base HumanRDigit22Gizmo
+    100082: Base HumanRFoot
+    100084: Base HumanRFootGizmo
+    100086: Base HumanRForearm
+    100088: Base HumanRForearmGizmo
+    100090: Base HumanRibcage
+    100092: Base HumanRibcageGizmo
+    100094: Base HumanRPalm
+    100096: Base HumanRPalmGizmo
+    100098: Base HumanRPlatform
+    100100: Base HumanRThigh
+    100102: Base HumanRUpperarm
+    100104: Base HumanRUpperarmGizmo
+    100106: Base HumanRUpVectorNode
+    100108: Base HumanSpine1
+    100110: Base HumanSpine2
+    100112: Base HumanSpine3
+    100114: lpTrump
+    100116: Omni001
+    100118: Sky001
+    100120: //RootNode
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanHeadBone001
+    400006: Base HumanHeadBone001Bone001
+    400008: Base HumanHeadBone001Bone001Gizmo
+    400010: Base HumanHeadBone001Gizmo
+    400012: Base HumanHeadGizmo
+    400014: Base HumanLCalf
+    400016: Base HumanLCollarbone
+    400018: Base HumanLDigit11
+    400020: Base HumanLDigit11 1
+    400022: Base HumanLDigit11Gizmo
+    400024: Base HumanLDigit11Gizmo 1
+    400026: Base HumanLDigit21
+    400028: Base HumanLDigit21Gizmo
+    400030: Base HumanLDigit22
+    400032: Base HumanLDigit22Gizmo
+    400034: Base HumanLFoot
+    400036: Base HumanLFootGizmo
+    400038: Base HumanLForearm
+    400040: Base HumanLForearmGizmo
+    400042: Base HumanLPalm
+    400044: Base HumanLPalmGizmo
+    400046: Base HumanLPlatform
+    400048: Base HumanLThigh
+    400050: Base HumanLUpperarm
+    400052: Base HumanLUpperarmGizmo
+    400054: Base HumanLUpVectorNode
+    400056: Base HumanNeck
+    400058: Base HumanPelvis
+    400060: Base HumanPelvisGizmo
+    400062: Base HumanRCalf
+    400064: Base HumanRCollarbone
+    400066: Base HumanRDigit11
+    400068: Base HumanRDigit11 1
+    400070: Base HumanRDigit11Gizmo
+    400072: Base HumanRDigit11Gizmo 1
+    400074: Base HumanRDigit21
+    400076: Base HumanRDigit21Gizmo
+    400078: Base HumanRDigit22
+    400080: Base HumanRDigit22Gizmo
+    400082: Base HumanRFoot
+    400084: Base HumanRFootGizmo
+    400086: Base HumanRForearm
+    400088: Base HumanRForearmGizmo
+    400090: Base HumanRibcage
+    400092: Base HumanRibcageGizmo
+    400094: Base HumanRPalm
+    400096: Base HumanRPalmGizmo
+    400098: Base HumanRPlatform
+    400100: Base HumanRThigh
+    400102: Base HumanRUpperarm
+    400104: Base HumanRUpperarmGizmo
+    400106: Base HumanRUpVectorNode
+    400108: Base HumanSpine1
+    400110: Base HumanSpine2
+    400112: Base HumanSpine3
+    400114: lpTrump
+    400116: Omni001
+    400118: Sky001
+    400120: //RootNode
+    4300000: lpTrump
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: lpTrump
   materials:
     importMaterials: 1
     materialName: 0
